@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="100" fill="#6f42c1"/>
+  <circle cx="100" cy="75" r="35" fill="#fff" opacity="0.9"/>
+  <ellipse cx="100" cy="160" rx="55" ry="40" fill="#fff" opacity="0.9"/>
+  <text x="100" y="185" text-anchor="middle" fill="#6f42c1" font-size="14" font-family="Arial, sans-serif" font-weight="700">Dr. Priya</text>
+</svg>
